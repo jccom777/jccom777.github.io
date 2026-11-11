@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://jccom777.github.io/panmaewang-pro/sitemap.xml
+
+#DaumWebMasterTool:e08b48a2865f63d6deee617f743c1232d46caa4fca59b156aeffaccfbfadc399:VC4npJliHmrJLtJDnWYFDA==
