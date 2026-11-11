@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jccom777.github.io/panmaewang-pro/sitemap.xml
